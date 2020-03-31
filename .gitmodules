@@ -1,6 +1,3 @@
-[submodule "voting-ui"]
-	path = voting-ui
-	url = https://github.com/techconsultingsolutions/voting-ui.git
 [submodule "voting-sync-msg-svc"]
 	path = voting-sync-msg-svc
 	url = https://github.com/techconsultingsolutions/voting-sync-msg-svc.git
@@ -13,3 +10,6 @@
 [submodule "voting-cache-db"]
 	path = voting-cache-db
 	url = https://github.com/techconsultingsolutions/voting-cache-db.git
+[submodule "voting-ui"]
+	path = voting-ui
+	url = https://github.com/techconsultingsolutions/voting-ui.git
