@@ -1,3 +1,6 @@
 [submodule "voting-ui"]
 	path = voting-ui
 	url = https://github.com/techconsultingsolutions/voting-ui.git
+[submodule "voting-cache-db"]
+	path = voting-cache-db
+	url = https://github.com/techconsultingsolutions/voting-cache-db.git
