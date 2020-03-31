@@ -1,0 +1,3 @@
+[submodule "voting-ui"]
+	path = voting-ui
+	url = https://github.com/techconsultingsolutions/voting-ui.git
